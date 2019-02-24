@@ -1,0 +1,14 @@
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.deps.json
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.runtimeconfig.json
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.runtimeconfig.dev.json
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.dll
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.pdb
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.csprojAssemblyReference.cache
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.csproj.CoreCompileInputs.cache
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorAssemblyInfo.cache
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorAssemblyInfo.cs
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.AssemblyInfoInputs.cache
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.AssemblyInfo.cs
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorTargetAssemblyInfo.cache
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.dll
+C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.pdb
