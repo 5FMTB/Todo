@@ -12,3 +12,17 @@ C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcorea
 C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorTargetAssemblyInfo.cache
 C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.dll
 C:\Users\release\source\repos\my_first_webApp\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.pdb
+D:\Gitkraken\Todo\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.deps.json
+D:\Gitkraken\Todo\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.runtimeconfig.json
+D:\Gitkraken\Todo\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.runtimeconfig.dev.json
+D:\Gitkraken\Todo\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.dll
+D:\Gitkraken\Todo\my_first_webApp\bin\Debug\netcoreapp2.1\my_first_webApp.pdb
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.csprojAssemblyReference.cache
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.csproj.CoreCompileInputs.cache
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorAssemblyInfo.cache
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorAssemblyInfo.cs
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.AssemblyInfoInputs.cache
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.AssemblyInfo.cs
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.RazorTargetAssemblyInfo.cache
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.dll
+D:\Gitkraken\Todo\my_first_webApp\obj\Debug\netcoreapp2.1\my_first_webApp.pdb
