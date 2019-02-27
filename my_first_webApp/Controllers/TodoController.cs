@@ -27,10 +27,14 @@ namespace my_first_webApp.Controllers
                 _context.TodoItems.Add(new TodoItem { Name = "gras maaien", IsComplete = true });
                 _context.TodoItems.Add(new TodoItem { Name = "Fietsband repareren" });
                 _context.TodoItems.Add(new TodoItem { Name = "API programeren" });
+                _context.TodoItems.Add(new TodoItem { Name = "water bijvullen", IsComplete = true });
+                _context.TodoItems.Add(new TodoItem { Name = "tandarts" });
+                _context.TodoItems.Add(new TodoItem { Name = "API database" });
                 _context.SaveChanges();
             }
-            
         }
+
+        //return new JsonResult(book) //hoe een json object terug te geven
         // GET: api/Todo
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItems()
@@ -101,16 +105,26 @@ namespace my_first_webApp.Controllers
 
             return NoContent();
         }
-
-        /*
-        [HttpDelete]
-        public async Task<ActionResult<IEnumerable<TodoItem>>> DeleteTodoItems()
+        //delete range (BETA: does not remove last element of the range
+        [HttpDelete("{startID}-{stopID}")]
+        public async Task<IActionResult> DeleteTodoItems(long startID, long stopID)
         {
-            //return await _context.TodoItems.ToListAsync();
-            _context.TodoItems.Remove();
-            await _context.SaveChangesAsync();
-            return NoContent();
+            long ID = startID;
+            while(ID < stopID)
+            {
+                
+                var todoItem = await _context.TodoItems.FindAsync(ID);
+
+                if (todoItem != null)
+                {
+                    _context.TodoItems.Remove(todoItem);
+                    await _context.SaveChangesAsync();
+
+                    return NoContent();
+                }
+                ID++;
+            }
+            return Ok();
         }
-        */
     }
 }
