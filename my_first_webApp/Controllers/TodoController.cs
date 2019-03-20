@@ -105,6 +105,17 @@ namespace my_first_webApp.Controllers
 
             return NoContent();
         }
+        /*
+        [HttpDelete("/Clear")]
+        public async Task<IActionResult> ClearTodoItem()
+        {
+            var todoItem = await _context.TodoItems.FindAsync(todoitem => todoitem.Id == 1);
+            return true;
+
+
+        }
+        */
+        /*
         //delete range (BETA: does not remove last element of the range
         [HttpDelete("{startID}-{stopID}")]
         public async Task<IActionResult> DeleteTodoItems(long startID, long stopID)
@@ -126,5 +137,6 @@ namespace my_first_webApp.Controllers
             }
             return Ok();
         }
+        */
     }
 }
